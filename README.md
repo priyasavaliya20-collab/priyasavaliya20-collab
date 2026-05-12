@@ -86,10 +86,9 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 ## 📬 Connect With Me
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=for-the-badge&logo=github)](https://github.com/priyasavaliya20-collab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shruti_Bhawsar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-bhawsar-5030bb37a/)
-
+  
+[![GitHub](https://img.shields.io/badge/GitHub-priyasavaliya20--collab-181717?style=for-the-badge&logo=github)](https://github.com/priyasavaliya20-collab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya_Savaliya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-savaliya-a4883940a/)
 </div>
 
 <img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
