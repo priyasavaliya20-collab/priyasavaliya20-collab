@@ -90,7 +90,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 </div>
 
-<img alt="color_strip" scr="color_strip.jpeg" width="100%" />
+<img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
 
 <div align="center">
 
