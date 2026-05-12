@@ -11,12 +11,14 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 </div>
 
-<img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
+<img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
+
 
 
 ## 💬 About me ...
 
-<img align="right" width="300" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
+<img width="300"  alt="GIF" src="https://github.com/user-attachments/assets/49f81d9a-e773-4101-b9db-5af43e6e7c34" />
+
 
 - 🌍 I'm based in **Ahmedabad, India** .
 - 📊 Deep into **DAX**, **data modeling**, and interactive dashboards .
@@ -26,7 +28,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <br clear="right"/>
 
-<img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
+<img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
 
 ## 🛠️ Core Tools
 
@@ -51,7 +53,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 </div>
 
-<img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
+<img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
 
 ## 🧰 Tech Stack
 
@@ -69,7 +71,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 </div>
 
-<img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
+<img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
 
 ## 📈 GitHub Status
 
@@ -79,7 +81,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 </div>
 
-<img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
+<img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
 
 ## 📬 Connect With Me
 
