@@ -77,7 +77,9 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <div align="center">
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyasavaliya20-collab&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyasavaliya20-collab&layout=compact&theme=radical)
 
 </div>
 
