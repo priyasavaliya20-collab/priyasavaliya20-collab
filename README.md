@@ -7,13 +7,24 @@
 
 <div align="center">
 
-I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoys turning raw data into meaningful stories and building interactive dashboards. Problem-solving mindset with a goal to deliver actionable insights from data. Love to explore new datasets and find patterns that matter.
+I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoys turning raw data into meaningful stories and building interactive dashboards. Problem-solving mindset with a goal to deliver data-driven insights!
 
 </div>
 
 <img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
 
+## 📊 GitHub Status
 
+<div align="center">
+
+| Total Contributions | Current Streak | Longest Streak |
+|:---:|:---:|:---:|
+| **383** | **3** | **4** |
+| Aug 23, 2025 - Present | May 9 - May 11 | Apr 27 - Apr 30 |
+
+</div>
+
+<img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
 
 ## 💬 About me ...
 
@@ -73,7 +84,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
 
-## 📈 GitHub Status
+## 📈 GitHub Analytics
 
 <div align="center">
 
