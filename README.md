@@ -88,9 +88,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyasavaliya20-collab&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyasavaliya20-collab&layout=compact&theme=radical&cache_seconds=1800)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyasavaliya20-collab&theme=radical)
 
 </div>
 
