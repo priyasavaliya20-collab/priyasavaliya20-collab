@@ -17,7 +17,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 ## 💬 About me ...
 
-<img width="300"  alt="GIF" src="https://github.com/user-attachments/assets/49f81d9a-e773-4101-b9db-5af43e6e7c34" />
+<img width="300" align="right" alt="GIF" src="https://github.com/user-attachments/assets/49f81d9a-e773-4101-b9db-5af43e6e7c34" />
 
 
 - 🌍 I'm based in **Ahmedabad, India** .
