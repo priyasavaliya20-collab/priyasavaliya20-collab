@@ -7,7 +7,7 @@
 
 <div align="center">
 
-I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoys turning raw data into meaningful stories and building interactive dashboards. Problem-solving mindset with a goal to deliver data-driven insights!
+I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoys turning raw data into meaningful stories and building interactive dashboards. Problem-solving mindset with a goal to create impactful data visualizations and insights.
 
 </div>
 
@@ -24,6 +24,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 - 🤖 I'm learning **AI & ML & data science** at Red & White Multimedia Institute .
 - 💬 Ask me about `Power BI` `Python` `SQL` `Excel` `DAX` .
 - 🌟 I can turn raw data into clear dashboards and actionable insights and storytelling .
+- 🚀 Passionate about automation and data-driven decision making .
 
 <br clear="right"/>
 
@@ -67,6 +68,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -76,9 +78,48 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <div align="center">
 
+### GitHub Contribution Streak
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyasavaliya20-collab&theme=radical)
 
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyasavaliya20-collab&layout=compact&theme=radical)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyasavaliya20-collab&show_icons=true&theme=radical&count_private=true)
+
+### Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyasavaliya20-collab&theme=radical)
+
 </div>
+
+<img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
+
+## 🎯 Key Features & Expertise
+
+<div align="center">
+
+| Feature | Details |
+|---------|---------|
+| 📊 **Dashboard Design** | Interactive Power BI dashboards with advanced DAX calculations |
+| 🔍 **Data Analysis** | Python, SQL for exploratory and statistical analysis |
+| 📈 **Data Visualization** | Matplotlib, Seaborn for compelling visual insights |
+| 💾 **Database Management** | SQL database design, optimization, and query writing |
+| 🤖 **Data Science** | Machine learning fundamentals and predictive modeling |
+| 📝 **Data Storytelling** | Transforming complex data into actionable narratives |
+| 🔄 **ETL Processes** | Data extraction, transformation, and automation |
+| 🎨 **UI/UX Design** | User-friendly dashboard interfaces and reporting |
+
+</div>
+
+<img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
+
+## 💡 What I'm Currently Working On
+
+- 🔬 Advanced DAX calculations for complex business scenarios
+- 🤖 AI & Machine Learning model development
+- 📊 Real-time data dashboard projects
+- 🌐 Web-based analytics applications
+- 💼 Business intelligence solutions
 
 <img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
 
@@ -88,6 +129,8 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
   
 [![GitHub](https://img.shields.io/badge/GitHub-priyasavaliya20--collab-181717?style=for-the-badge&logo=github)](https://github.com/priyasavaliya20-collab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya_Savaliya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-savaliya-a4883940a/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
 </div>
 
 <img width="100%"  alt="color_strip" src="https://github.com/user-attachments/assets/3e9f4cb6-8c29-414d-b2c0-bb6aa21afc7a" />
@@ -95,6 +138,6 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 <div align="center">
 
 # Hope you like it 🌟
-### Thank you .
+### Thank you for visiting! Let's connect and create data-driven solutions together! 🚀
 
 </div>
